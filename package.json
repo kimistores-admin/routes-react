@@ -1,6 +1,6 @@
 {
   "name": "routes-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Routes for React",
   "main": "src/index.ts",
   "author": "KimiStores",
